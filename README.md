@@ -5,7 +5,7 @@ Percantage concentration calculator is a gui program write in python. For creati
 
 Program is created to provide options for make quick calculation with percentage concentration.
 
-![Alt text](main_window.png)
+![main_window](https://github.com/PatrykSiekierzycki/Percentage_concentration_calculator/assets/106544444/09b9d56b-a9bc-4ae5-8b15-abb8d95ffc3d)
 
 <h3>What you can calculate?:<h3>
 - percentage concentration
@@ -20,8 +20,9 @@ You can also copy it by click copy button.
 
 <h3>Frameless window:<h3>
 Program don't have default windows frame. In that case in program is implement solution, that you can "grab" window and move it onto monitor. Just press and hold LPM at background of whole window and move mouse. Window will move with your mouse. The same thing you can do with setting window. That window is showed only if you press settings button, in side menu on the left side of window.
+  
+![setting_window](https://github.com/PatrykSiekierzycki/Percentage_concentration_calculator/assets/106544444/eb66a960-be38-4872-8272-50df1159efe0)
 
-![Alt text](setting_window.png)
 
 <h3>Change color:<h3>
 Program provide option to change colors of elements. To change color press settings button in side menu at left side of window. If you click that button, you will see a new window.
